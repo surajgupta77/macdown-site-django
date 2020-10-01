@@ -1,5 +1,5 @@
 ===================
-macdown-site
+This is amazing macdown-website 
 ===================
 
 This is the source code of the official site for MacDown_. Please click here_
